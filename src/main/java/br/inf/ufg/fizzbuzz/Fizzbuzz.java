@@ -8,6 +8,7 @@ import java.util.Random;
  */
 public class Fizzbuzz {
 	public static void main(String[] args) {
+		/*
 		Random gerador = new Random();
 		boolean jogadorDaVez = gerador.nextBoolean();
 		Computador cpu = new Computador();
@@ -32,5 +33,6 @@ public class Fizzbuzz {
 		}
 		
 		System.out.println("Fim do jogo!");
+		*/
 	}
 }
